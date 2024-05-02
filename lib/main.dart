@@ -57,7 +57,7 @@ class MyHomePage extends StatelessWidget {
                             ),
                             Icon(Icons.arrow_circle_right),
                             Text(
-                                "New era\n59Fifty\nColor negra con bordados blancos\nedicion Coperstown")
+                                "New Era\n59Fifty\nColor negra con bordados blancos\nedicion Coperstown")
                           ],
                         )),
                   ),
